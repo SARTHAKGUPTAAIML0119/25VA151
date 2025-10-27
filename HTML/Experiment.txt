@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Experiment </title>
+    
+</head>
+<body bgcolor="#B2E85F">
+	<table border="1" align="center" width="80%" cellspacing="5" cellpadding="5">
+    
+
+       
+        <tr>
+            <td colspan="10">COURSE/BRANCH:AIML-3</td>
+            
+        </tr>
+        <tr>
+            <th>Day/Time</th>
+            <th>8:50-9:40</th>
+            <th>9:40-10:30</th>
+            <th>10:30-11:20</th>
+            <th>11:20-12:10</th>
+            <th>12:10-1:00</th>
+            <th>1:00-1:50</th>
+            <th>1:50-2:40</th>
+            <th>2:40-3:30</th>
+            <th>3:30 - 4:30</th>
+        </tr>
+        <!--monday-->
+        <tr>
+            <td rowspan="3">MONDAY</td>
+            <td>MATH</td>
+            <td>BIO</td>
+            <td>PHYSICS</td>
+            <td>LUNCH</td>
+            <td>WD</td>
+            <td>DSA</td>
+            <td>MATHS</td>
+            <td > Bio</td>
+	    <td> maths</td>	
+	
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+
+        <tr>
+            <td rowspan="3">TUESDAY</td>
+            <td>dsa</td>
+            <td>free</td>
+            <td>psycology</td>
+            <td>LUNCH</td>
+            <td>WD</td>
+            <td>DSA</td>
+            <td>MATHS</td>
+            <td > maths</td>
+	    <td> BOOM</td>	
+	
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+
+        <tr>
+            <td rowspan="3">WEDNESDAY</td>
+            <td>MATH</td>
+            <td>BIO</td>
+            <td>PHYSICS</td>
+            <td>LUNCH</td>
+            <td>WD</td>
+            <td>DSA</td>
+            <td>MATHS</td>
+            <td > Bio</td>
+	    <td> maths</td>	
+	
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+
+        <tr>
+            <td rowspan="3">THURSDAY</td>
+            <td>MATH</td>
+            <td>BIO</td>
+            <td>PHYSICS</td>
+            <td>LUNCH</td>
+            <td>WD</td>
+            <td>DSA</td>
+            <td>MATHS</td>
+            <td > Bio</td>
+	    <td> maths</td>	
+	
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+
+        <tr>
+            <td rowspan="3">FRIDAY</td>
+            <td>BIO</td>
+            <td>PHY</td>
+            <td>WD</td>
+            <td>LUNCH</td>
+            <td colspan="2"rowspan="3">DSA</td>
+            <td>MATHS</td>
+            <td > Bio</td>
+	    <td> maths</td>	
+	
+            
+        </tr>
+        <tr>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+            
+        </tr>
+        <tr>
+            
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+
+    
+        
+        
+        <tr>
+            <td>Saturday</td>
+            <td>multiple activities
+        <table>
+                <tr>
+                <td>MENTOR MENTI</td>
+                </tr>
+                <tr>
+                <td>JAM</td>
+                </tr>
+                <tr>
+                <td>BOOM</td>
+                </tr>
+                <tr>
+                <td>OOPS</td>
+                </tr>
+            </table>
+            </td>
+        </tr>
+        
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
